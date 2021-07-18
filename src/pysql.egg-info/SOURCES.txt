@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/pysql.egg-info/PKG-INFO
+src/pysql.egg-info/SOURCES.txt
+src/pysql.egg-info/dependency_links.txt
+src/pysql.egg-info/top_level.txt
