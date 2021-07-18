@@ -7,7 +7,7 @@ setuptools.setup(
     name="pysql-pkg-ushergodwin",
     version="0.0.1",
     author="Tumuhimbise Usher Godwin",
-    author_email="godwintumuhimbise96.com",
+    author_email="godwintumuhimbise96@gmail.com",
     description="A lightweight mysql package that works with either pymysql, mysqlclient or mysql connectore",
     long_description=long_description,
     long_description_content_type="text/markdown",
