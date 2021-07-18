@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pysql-pkg-ushergodwin",
-    version="0.0.1",
+    name="pysql",
+    version="1.0",
     author="Tumuhimbise Usher Godwin",
     author_email="godwintumuhimbise96@gmail.com",
-    description="A lightweight mysql package that works with either pymysql, mysqlclient or mysql connectore",
+    description="A lightweight mysql package that works with either pymysql, mysqlclient or mysql connector",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ushergodwin/pysql",
