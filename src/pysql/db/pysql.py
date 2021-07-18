@@ -41,7 +41,7 @@ if DB_DRIVER == "mysqlconnector":
         raise ImportError()
 
 
-class DB:
+class pysql:
     _db_instance = DRIVER.connect(
         host=Config.get("HOST"),
         port=Config.get("PORT"),
